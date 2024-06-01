@@ -1,6 +1,6 @@
 # Realtime AI Drawing
 
-A simple client app that demonstrates how to create a mask of drawing on an image and use it as a input for Stable Diffusion AI inpainting models via API.
+A simple client app that uses controlnet image-to-image ai model to transform your doodles into ai art in realtime via API.
 
 ![sml_icon](https://github.com/Serkali-sudo/realtime-ai-drawing/assets/59535990/1ccfc856-8c49-4054-8bf4-333037fa31f4)
 
