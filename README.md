@@ -24,6 +24,5 @@ https://github.com/Serkali-sudo/realtime-ai-drawing/assets/59535990/2c020736-38c
 
 ## Screenshots
 
-
 ![feature_rltmai](https://github.com/Serkali-sudo/realtime-ai-drawing/assets/59535990/b78cc178-1b9e-4250-a361-fc70d361ee47)
 
