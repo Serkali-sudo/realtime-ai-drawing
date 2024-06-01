@@ -19,10 +19,9 @@ A simple client app that uses controlnet image-to-image ai model to transform yo
 * Get an API key from [fal.ai](https://fal.ai/)
 * Enter the API key to the app from settings or it will prompt when you try to run or at start of the app if you havent entered an api key
 * Write a prompt then start drawing
- 
-![tutorial2_optimize](https://github.com/Serkali-sudo/realtime-ai-drawing/assets/59535990/1b4dc38f-5f56-49ba-995d-b8637f6b4c5e)
 
-  
+https://github.com/Serkali-sudo/realtime-ai-drawing/assets/59535990/2c020736-38ca-4088-af27-eb7cd2a40586
+
 ## Screenshots
 
 
