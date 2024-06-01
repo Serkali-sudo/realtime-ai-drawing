@@ -2,8 +2,7 @@
 
 A simple client app that demonstrates how to create a mask of drawing on an image and use it as a input for Stable Diffusion AI inpainting models via API.
 
-![small_,icon](https://github.com/Serkali-sudo/realtime-ai-drawing/assets/59535990/16e15d52-adcf-4e23-91b9-6a7b3bda1c04)
-
+![sml_icon](https://github.com/Serkali-sudo/realtime-ai-drawing/assets/59535990/1ccfc856-8c49-4054-8bf4-333037fa31f4)
 
 ## Requirements
 * An API key from [fal.ai](https://fal.ai/)
