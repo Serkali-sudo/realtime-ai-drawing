@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Realtime AI Drawing</string>
+
+    <string name="cpv_default_title">Select a Color</string>
+    <string name="cpv_presets">Presets</string>
+    <string name="cpv_custom">Custom</string>
+    <string name="cpv_select">Select</string>
+    <string name="cpv_transparency">Transparency</string>
+    <string name="cancel">Cancel</string>
+    <string name="sel_back_color">Background colour</string>
+    <string name="sel_pen_color">Pencil colour</string>
+
+</resources>
